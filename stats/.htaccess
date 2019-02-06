@@ -1,7 +1,0 @@
-AuthName "uni2.um.edu.mx statistics"
-AuthType Basic
-AuthUserFile /home/uni2/.stats-htpasswd
-require valid-user
-<Files .stats-htpasswd>
-deny from all
-</Files>
