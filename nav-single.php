@@ -2,8 +2,11 @@
    <body id="page-top">
    <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav" style="background:#222222">
    <div class="container">
-      <a style="filter: invert(100%);" class="navbar-brand js-scroll-trigger .img-fluid3" href="http://uni2.um.edu.mx"><img src="img/logos/FE.png"></a>
-      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <a class="navbar-brand js-scroll-trigger .img-fluid3" href="#page-top">
+            <!-- <img src="img/logos/FE.png" data-src="img/logos/FE.png" class="lazyload"> -->
+            Universidad del Mañana 2019
+        </a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
       Menu
       <i class="fa fa-bars"></i>
       </button>

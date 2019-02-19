@@ -7,10 +7,10 @@
       <link href="vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
       <link href="css/agency.css" rel="stylesheet">
       <link href="css/default.css" rel="stylesheet">
-      <meta property="og:title" content="UnidosUM | Universidad del Mañana 2019" />
-      <meta property="og:description" content="Universidad del Mañana 2019" />
+      <meta property="og:title" content="Uni2 | Universidad del Mañana 2019" />
+      <meta property="og:description" content="Unidos por el comedor en familia - Universidad de Montemorelos" />
       <meta property="og:type" content="website" />
-      <meta property="og:image" content="http://uni2.um.edu.mx/img/Slider.jpg" />
+      <meta property="og:image" content="http://uni2.um.edu.mx/img/comedor/slider.jpg" />
       <meta property="og:url" content="http://uni2.um.edu.mx/" />
       <style>
          /* latin */

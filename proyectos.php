@@ -8,58 +8,41 @@
     <div class="donaciones container text-center" style="margin-top:12%;">
         <div class="row" style="padding:5px;">
             <div class="col-md-12 separacion">
-                <h3><strong>PAGO  EFECTIVO, DÉBITO Y CRÉDITO</strong></h3>
-                <p>Tu donativo puede ser hecho en efectivo en sucursales OXXO, 7-Eleven, Telecomm, Bancomer, Banamex y Santander. También si lo prefieres, puedes pagar con tarjeta de débito de los bancos Bancomer, Banamex, Santander, Banorte e IXE o con tarjetas de crédito VISA, MasterCard y AmericanExpress. </p>
-                <div class="row row-eq-height datos vcenter">
-                    <div class="col-sm-6 col-md-6 col-lg-3 np">
-                        <a mp-mode="modal" href="https://www.mercadopago.com/mlm/checkout/start?pref_id=275723723-64a34c0f-c706-4673-9e5b-2d04352d43c6" name="MP-payButton" class='btn btn-xl CTA-button m-2 blue-ar-l-rn-none'>Donación <br> $50MXN</a>
-                    </div>
-                    <div class="col-sm-6 col-md-6 col-lg-3 np">
-                        <a mp-mode="modal" href="https://www.mercadopago.com/mlm/checkout/start?pref_id=275723723-bf657f4e-c245-40c4-a571-9b4bf6d2226e" name="MP-payButton" class='btn btn-xl CTA-button m-2'>Donación <br> $100MXN</a>
-                    </div>
-                    <div class="col-sm-6 col-md-6 col-lg-3 np">
-                        <a mp-mode="modal" href="https://www.mercadopago.com/mlm/checkout/start?pref_id=275723723-7bc80a2f-74c5-4ed7-8d30-e484d0ad97b6" name="MP-payButton" class='btn btn-xl CTA-button m-2'>Donación <br> $200MXN</a>
-                    </div>
-                    <div class="col-sm-6 col-md-6 col-lg-3 np">
-                        <a mp-mode="modal" href="http://mpago.la/vZJM" name="MP-payButton" class='btn btn-xl CTA-button m-2'>Definir <br> el monto</a>
-                    </div>
+                <h3><strong>FAMILIA UM</strong></h3>
+                <p>
+                    Uni2UM no es solo una página. Es un movimiento para usar la tecnología al servicio de Dios y proyectos sociales. Con fe, oramos a nuestro Dios, porque no solo se necesitan recursos, también oraciones. La comunidad universitaria se une en apoyo a las causas de esta página. Los esfuerzos no se han escatimado, y siempre se pone en marcha toda la maquinaria universitaria, cada estudiante, cada empleado, cada miembro de nuestra casa de estudios con los ojos en la misma mira: UNIDOS.
+                </p>
+            </div>
+        </div>
+        <div class="row ">
+            <div class="col-md-4 col-sm-6 portfolio-item">
+                <div class="portfolio-link">
+                    <img src="img/Img1.jpg" data-src="img/Img1.jpg" class="img-fluid lazyload" alt="">
+                </div>
+                <div class="portfolio-caption">
+                    <h4>Recolección de Víveres</h4>
+                    <p class="text-muted">
+                        <br>Ministerio Juvenil y Federación Estudiantil coordinan a los integrantes de clubes y ministerios para llegar a los hogares de Allende y Montemorelos, N.L. Los recursos económicos y víveres serán enviados a los lugares en necesidad.</p>
                 </div>
             </div>
-            <div class="col-md-12 separacion">
-                <h3><strong>PAGOS INTERNACIONALES CON TARJETAS DE DÉBITO Y CRÉDITO</strong></h3>
-                <p>Tu donación será realizada con la tecnología de <strong>Paypal</strong>. Puedes donar con VISA, MasterCard & AmericanExpress...</p>
-                <div class="row row-eq-height datos vcenter">
-                    <div class="col-sm-12 np">
-                        <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VM5HM9JTHRR6G" class='btn btn-xl CTA-button m-2'>Definir el monto</a>
-                    </div>
+            <div class="col-md-4 col-sm-6 portfolio-item">
+                <div class="portfolio-link">
+                    <img src="img/Img2.jpg" data-src="img/Img2.jpg" class="img-fluid lazyload" alt="">
+                </div>
+                <div class="portfolio-caption">
+                    <h4>Oración</h4>
+                    <p class="text-muted">
+                        <br>La oración es un pilar fundamental para la realización de esta misión, cada alumno de nuestra institución aparta un momento para la oración. En cada escuela o en el bando de oración permanente, Dios es el centro de la operación. </p>
                 </div>
             </div>
-            <div class="col-md-12 separacion">
-                <h3><strong>Transferencia Bancaria o Deposito en Ventanilla</strong></h3>
-                <p>Información para que puedas hacer una transferencia electrónica a través del portal en línea de tu banco.
-                    <br> Tu aportación se reflejará en un máximo de 48 horas.</p>
-                <p class="text-center" style="font-weight:900;">Datos bancarios de ADRA MÉXICO.</p>
-                <div class="row row-eq-height datos vcenter">
-                    <div class="col-md-3 np">
-                        <h4>NOMBRE</h4>
-                        <p>Agencia Adventista de Desarollo y Recursos Asistenciales AC
-                        </p>
-                    </div>
-                    <div class="col-md-3 np">
-                        <h4>CUENTA</h4>
-                        <p>
-                            <br>0196482139</p>
-                    </div>
-                    <div class="col-md-3 np">
-                        <h4>BANCO</h4>
-                        <p>
-                            <br>BBVA Bancomer</p>
-                    </div>
-                    <div class="col-md-3 np">
-                        <h4>CLABE</h4>
-                        <p>
-                            <br>012180001964821397</p>
-                    </div>
+            <div class="col-md-4 col-sm-6 portfolio-item">
+                <div class="portfolio-link">
+                    <img src="img/Img3.jpg" data-src="img/Img3.jpg" class="img-fluid lazyload" alt="">
+                </div>
+                <div class="portfolio-caption">
+                    <h4>Recaudando fondos</h4>
+                    <p class="text-muted">
+                        <br>Los esfuerzos no se han escatimado, se ha puesto en marcha toda la maquinaria universitaria, cada estudiante, cada empleado, cada miembro de nuestra casa de estudios con los ojos en la misma mira UNIDOS POR OAXACA. </p>
                 </div>
             </div>
         </div>

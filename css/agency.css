@@ -13,6 +13,9 @@ body {
     }
 }
 
+    #mainNav .navbar-brand {
+      color: #15f1de !important;}
+
     .hashtag{
       font-size: 20px !important;
       line-height: 55px;
@@ -227,7 +230,7 @@ section {
         font-family:'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif 
     }
     .hashtag{
-      font-size: 45px !important;
+      font-size: 23px !important;
       line-height: 22px;
       margin-bottom: 25px;
       font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial !important; 
@@ -313,6 +316,7 @@ body {
     border: none;
     background-color: transparent; }
     #mainNav .navbar-brand {
+      color: #15f1de !important;
       font-size: 1.75em;
       -webkit-transition: all 0.3s;
       -moz-transition: all 0.3s;

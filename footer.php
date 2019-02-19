@@ -6,11 +6,6 @@
             <img src="img/logos/monte.png" data-src="img/logos/monte.png" class="img-fluid2 d-block mx-auto lazyload"  alt="">
             </a>
          </div>
-         <div class="col-md-2 col-sm-12 logos-footer">
-            <a href="http://um.edu.mx/" target="_blank">
-            <img src="img/logos/monte.png" data-src="img/logos/monte.png" class="img-fluid2 d-block mx-auto lazyload"  alt="">
-            </a>
-         </div>
       </div>
       <div class="row" style="padding-top: 35px; ">
          <div class="col-md-6 contact-footer">
